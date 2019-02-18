@@ -1,0 +1,17 @@
+.nav{
+   display: flex;
+   justify-content: space-between;
+    background-color: rgb(44, 44, 75)
+}
+.main{
+    background-color: rgb(44, 44, 75) !important;
+    background-image: url("/images/react-logo.svg")
+    
+}
+img{
+    padding: 48px;
+}
+.blah{
+    width: 25%;
+}
+background-repeat:no-repeat;
